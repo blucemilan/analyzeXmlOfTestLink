@@ -1,0 +1,4 @@
+A1:view不能可调整。
+Q1：在plugin.xml中调整view的restorable，记得清除缓存。
+A2:无法导出附带信息。
+Q2：模版文件需要手工复制到导出文件夹中
